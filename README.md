@@ -1,7 +1,7 @@
 # QuizApp
 
 
-<IMG SRC="assets/images/quizgif.gif" alt="QuizAppDemo">
+<IMG SRC="assets/images/quizgif.gif" alt="QuizAppDemo" width=100>
 <img src = "assets/images/image1.png" width = 100>
 <img src = "assets/images/image2.png" width = 100>
 <img src = "assets/images/image3.png" width = 100>
